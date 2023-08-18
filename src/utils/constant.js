@@ -18,3 +18,7 @@ export const API_URLS = {
     searchUsers: (text) => `${API_ROOT}/users/search?text=${text}`
 
 }
+
+
+
+export const LOCAL_STORAGE_TOKEN_KEY = '_vlogging_website_tokenkey_' 
